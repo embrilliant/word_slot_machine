@@ -71,7 +71,7 @@ button {
     margin-top: 10%;
     color: rgb(230, 230, 230);
     text-shadow: 1px 1px 1px rgba(80, 80, 80, 1), 1px 1px 5px rgba(0, 0, 0, 1),
-    0px 1px 1px rgba(255, 255, 255, 1);
+                0px 1px 1px rgba(255, 255, 255, 1);
     font-weight: 400;
     font-size: medium;
     animation: shine 1s infinite;
